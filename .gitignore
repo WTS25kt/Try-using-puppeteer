@@ -291,3 +291,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# なぜかflask_screenshot内のスクリーンショットの画像がPUSHできなかったため
+screenshot.png
