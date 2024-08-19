@@ -294,3 +294,5 @@ dist
 
 # なぜかflask_screenshot内のスクリーンショットの画像がPUSHできなかったため
 screenshot.png
+# こちらもリモートブランチには不要のため
+_screenshot.png
