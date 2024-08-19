@@ -1,0 +1,11 @@
+{
+  "name": "Try-using-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WTS25kt/Try-using-puppeteer.git",
+  "author": "WTS25kt <ishii25kenta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^23.1.0"
+  }
+}
